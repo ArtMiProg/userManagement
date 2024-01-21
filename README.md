@@ -1,6 +1,7 @@
 Multi-module maven project userManagement
 
 url to add a user: "/addUser"
+
 url to display a list of all users: "/users"
 
 Flyway for database migration API is located in the data module - resources directory
