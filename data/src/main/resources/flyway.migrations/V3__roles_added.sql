@@ -1,0 +1,10 @@
+INSERT INTO `usermanagement`.`user_roles` (user_id, roles) VALUES (1, 'ROLE_CUSTOMER_USER');
+INSERT INTO `usermanagement`.`user_roles` (user_id, roles) VALUES (2, 'ROLE_CUSTOMER_USER');
+INSERT INTO `usermanagement`.`user_roles` (user_id, roles) VALUES (3, 'ROLE_CUSTOMER_USER');
+INSERT INTO `usermanagement`.`user_roles` (user_id, roles) VALUES (4, 'ROLE_CUSTOMER_USER');
+INSERT INTO `usermanagement`.`user_roles` (user_id, roles) VALUES (5, 'ROLE_CUSTOMER_USER');
+INSERT INTO `usermanagement`.`user_roles` (user_id, roles) VALUES (6, 'ROLE_CUSTOMER_USER');
+INSERT INTO `usermanagement`.`user_roles` (user_id, roles) VALUES (7, 'ROLE_CUSTOMER_USER');
+INSERT INTO `usermanagement`.`user_roles` (user_id, roles) VALUES (8, 'ROLE_CUSTOMER_USER');
+INSERT INTO `usermanagement`.`user_roles` (user_id, roles) VALUES (9, 'ROLE_CUSTOMER_USER');
+INSERT INTO `usermanagement`.`user_roles` (user_id, roles) VALUES (10, 'ROLE_CUSTOMER_USER');
