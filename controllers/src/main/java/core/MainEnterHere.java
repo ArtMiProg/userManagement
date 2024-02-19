@@ -13,7 +13,6 @@ public class MainEnterHere implements ApplicationRunner {
 
     public static void main(String[] args) {
         SpringApplication.run(MainEnterHere.class, args);
-        System.out.println("Let's start!");
     }
     @Override
     public void run(ApplicationArguments applicationArguments) throws Exception {
